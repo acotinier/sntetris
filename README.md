@@ -27,10 +27,10 @@ The game ends when the stack of blocks reaches the top of the playfield.
 
 ## How to Play
 
-Download  and execute SNtetris.exe.
-<a href="URL_OF_YOUR_FILE" download>
-  <button>Download File</button>
-</a>
+Download <a href="SNTetris" download>
+  <button>this</button>
+</a> and execute SNtetris.exe.
+
 ## Screenshots
 
 ![Gameplay](Assets/gameplay.png)
