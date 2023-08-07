@@ -31,9 +31,9 @@ Download and execute SNtetris.exe.
 
 ## Screenshots
 
-![Gameplay](https://prnt.sc/bwVYQKWrta2h)
+![Gameplay](Assets/gameplay.png)
 
-![Game Over](https://prnt.sc/zbrPutTJ-_ox)
+![Game Over](Assets/gameover.png)
 
 ## Requirements
 
